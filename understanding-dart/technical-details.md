@@ -26,7 +26,7 @@ Moreover, there are 3 qualities that make a language a pure OOP language.
 These topics will be covered more in-depth in the advanced section.
 
 {% hint style="info" %}
-Like Java, Dart is not a _pure object-oriented language_, which means that it does not completely abide by the 7 main concepts of OOP. Java and Dart break rules 1 and 3 of the main qualities of OOP because they support primitive types.
+Unlike Java, Dart is a _pure object-oriented language_, which means that it completely abides by the 7 main concepts of OOP. We will learn why in the primitive data types lesson.
 {% endhint %}
 
 ## Class-based
