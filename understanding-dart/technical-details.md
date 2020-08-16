@@ -10,20 +10,23 @@ Wikipedia describes dart as "an object-oriented, class-based, garbage-collected 
 
 Object-oriented programming, often shortened to OOP, is a term that is used to describe languages that support the concept of "objects" in programming. **Objects can represent real things or objects, as well as abstract things.** For example, an object can represent a car, an animal, an error, a color, clothing items, etc. Objects contain data, known as properties, and can perform methods.
 
-There are 7 pillars, or rules, of OOP: 
+There are 4 pillars, or rules, of OOP: 
 
 1. Inheritance, the sharing of information
 2. Abstraction, the hiding of information
 3. Encapsulation, the grouping of information
 4. Polymorphism, the redefining of information
-5. Pre-defined types are objects
-6. User-defined types are objects
-7. Methods must be called on objects
+
+Moreover, there are 3 qualities that make a language a pure OOP language.
+
+1. Pre-defined types are objects
+2. User-defined types are objects
+3. Methods must be called on objects
 
 These topics will be covered more in-depth in the advanced section.
 
 {% hint style="info" %}
-Like Java, Dart is not a _pure object-oriented language_, which means that it does not completely abide by the 7 pillars of OOP. Java and Dart break rules 5 and 7 of OOP because they support primitive types.
+Like Java, Dart is not a _pure object-oriented language_, which means that it does not completely abide by the 7 main concepts of OOP. Java and Dart break rules 1 and 3 of the main qualities of OOP because they support primitive types.
 {% endhint %}
 
 ## Class-based
