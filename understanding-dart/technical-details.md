@@ -4,7 +4,7 @@ description: What makes Dart special?
 
 # Technical Details
 
-Moreover, Wikipedia describes dart as "an object-oriented, class-based, garbage-collected language with C-style syntax." This probably sounds like gibberish, so let's make sure we understand it before we move on.
+Wikipedia describes dart as "an object-oriented, class-based, garbage-collected language with C-style syntax." This probably sounds like gibberish, so let's make sure we understand it before we move on.
 
 ## Object-oriented
 
