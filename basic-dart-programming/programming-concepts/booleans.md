@@ -1,3 +1,7 @@
+---
+description: bool isAwesome = true;
+---
+
 # Booleans
 
 ## Why booleans?

@@ -18,7 +18,7 @@ If you want to test your phone out on real devices, you will need:
 
 ## Testing Code
 
-Google provides us with a playground to test Dart code called "DartPad". It is available at [https://dartpad.dev](https://dartpad.dev). At any point in the course, you can test code online using DartPad.
+Google provides us with a playground to test Dart code called "DartPad". It is available at [https://dartpad.dev](https://dartpad.dev). At many points in the course, you can test code online using DartPad with the link provided.
 
 ## Administered system
 
