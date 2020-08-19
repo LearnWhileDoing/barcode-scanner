@@ -30,7 +30,7 @@ Typically, it is good practice to name boolean variables as a question. This is 
 
 ## Comparison operators
 
-In Java, we can compare values and variables to other values and variables. There are 9 comparison operators in Java that compare a value against another value:
+In Dart, we can compare values and variables to other values and variables. There are 9 comparison operators in Dart that compare a value against another value:
 
 ```java
 ==    // equal to
@@ -48,18 +48,18 @@ In Java, we can compare values and variables to other values and variables. Ther
 
 Comparison operators return a boolean. For example, when we compare if a number is greater than another number, we will get a boolean value that represents if that _expression_ is true or false.
 
-```java
-boolean isGreaterThan = 98 > 100; //true
+```dart
+bool isGreaterThan = 98 > 100; //true
 ```
 
 ![haha](../../.gitbook/assets/image.png)
 
-Java also provides us with 3 special _logical operators_ that are used to compare boolean values to one another. In the following example, we take a look at the three logical operators.
+Dart also provides us with 3 special _logical operators_ that are used to compare boolean values to one another. In the following example, we take a look at the three logical operators.
 
-```java
-boolean not = !true; //false because not true is false
-boolean or  = true || false; //true because at least one of the values is true
-boolean and = true && false //false because all of the values must be true
+```dart
+bool not = !true; //false because not true is false
+bool or  = true || false; //true because at least one of the values is true
+bool and = true && false //false because all of the values must be true
 ```
 
 ### Example
