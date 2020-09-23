@@ -18,6 +18,9 @@
   * [Arithmetic](basic-dart-programming/programming-concepts/arithmetic.md)
   * [Booleans](basic-dart-programming/programming-concepts/booleans.md)
   * [Control Flow](basic-dart-programming/programming-concepts/control-flow.md)
+  * [Loops](basic-dart-programming/programming-concepts/loops.md)
+  * [Recursion](basic-dart-programming/programming-concepts/recursion.md)
+* [Scope](basic-dart-programming/scope.md)
 
 ---
 

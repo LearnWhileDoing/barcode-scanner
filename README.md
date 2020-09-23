@@ -10,7 +10,7 @@ Once we have covered the baseline of what you need to know about programming and
 
 ## What's covered in this course?
 
-_Not explicitly in this order._
+This course will teach you how to make a mobile app that runs on iOS and Android phones from scratch!
 
 ### Basic programming concepts
 

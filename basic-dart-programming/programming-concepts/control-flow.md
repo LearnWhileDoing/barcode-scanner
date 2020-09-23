@@ -129,6 +129,27 @@ default:
   break;
 ```
 
+## Inline decisions \(ternary\)
+
+Sometimes, you may want to quickly assign a value to a variable depending on a certain condition. Consider the following example:
+
+```dart
+int sidesAmount = 1; // amount of sides this shape has
+String shapeType; // the type of shape
+```
+
+How can we quickly decide what type of shape this is, without using an if/else statement? Introducing the ternary expression. It uses the following syntax: `CONDITION? OUTCOME1 : OUTCOME2`. Here is an example of how you would use it with the given example:
+
+```dart
+String shapeType = sidesAmount > 1? "Polygon" : "Circle";
+```
+
+As you can see, there are 3 parts to a ternary statement. The first part, the _condition_, accepts a boolean condition. If the boolean condition is `true`, the ternary expression will result with the first outcome. Otherwise, the ternary expression will result with the second outcome.
+
+{% hint style="info" %}
+Note that you can only use one condition in a ternary expression. If you have multiple branches, you _can_ nest ternary expressions, but it is advised that you use if/else-if/else or switch statements instead.
+{% endhint %}
+
 ## Challenge
 
 {% tabs %}
