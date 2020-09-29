@@ -20,6 +20,7 @@
   * [Control Flow](basic-dart-programming/programming-concepts/control-flow.md)
   * [Loops](basic-dart-programming/programming-concepts/loops.md)
   * [Recursion](basic-dart-programming/programming-concepts/recursion.md)
+* [Functions](basic-dart-programming/functions.md)
 * [Scope](basic-dart-programming/scope.md)
 
 ---
