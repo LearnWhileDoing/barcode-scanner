@@ -4,7 +4,7 @@ If you are stuck on or confused by the course, no worries! There are many ways t
 
 ## For help with the course
 
-Feel free to reach out to me \(the main author\) by email via [cole@learnwhiledoing.org](mailto:cole@learnwhiledoing.org).
+You can ask for help on our dedicated Spectrum support forum: [https://spectrum.chat/learn-while-doing/flutter-app](https://spectrum.chat/learn-while-doing/flutter-app)
 
 ## For help with programming
 

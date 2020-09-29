@@ -10,10 +10,11 @@
 * [What is Dart?](understanding-dart/what-is-dart.md)
 * [Technical Details](understanding-dart/technical-details.md)
 * [Program Structure](understanding-dart/program-structure.md)
+* [Variables and Built-in Types](understanding-dart/variables-and-built-in-types.md)
+* [Using Dart Programs](understanding-dart/using-dart-programs.md)
 
 ## Basic Dart Programming
 
-* [Variables and Built-in Types](basic-dart-programming/variables-and-built-in-types.md)
 * [Programming Concepts](basic-dart-programming/programming-concepts/README.md)
   * [Arithmetic](basic-dart-programming/programming-concepts/arithmetic.md)
   * [Booleans](basic-dart-programming/programming-concepts/booleans.md)
@@ -21,9 +22,14 @@
   * [Loops](basic-dart-programming/programming-concepts/loops.md)
   * [Recursion](basic-dart-programming/programming-concepts/recursion.md)
 * [Functions](basic-dart-programming/functions.md)
+* [Classes](basic-dart-programming/classes/README.md)
+  * [Setting up DartPad](basic-dart-programming/classes/setting-up-dartpad.md)
+  * [About classes](basic-dart-programming/classes/about-classes.md)
+  * [Creating a class](basic-dart-programming/classes/creating-a-class.md)
+  * [Access specification](basic-dart-programming/classes/access-specification.md)
 * [Scope](basic-dart-programming/scope.md)
 
 ---
 
-* [Untitled](untitled.md)
+* [Coming Soon](untitled.md)
 
