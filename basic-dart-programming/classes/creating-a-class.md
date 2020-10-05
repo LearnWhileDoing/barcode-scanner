@@ -26,14 +26,12 @@ Let's make these instance variables. This will be inside the Car class.
 
 ```java
 class Car {
-  public String make;
-  public String model;
-  public String color;
-  public int year;
+  String make;
+  String model;
+  String color;
+  int year;
 }
 ```
-
-Don't worry about the `public` keyword for now, we will come back to it.
 
 ## Constructor
 
@@ -63,7 +61,7 @@ Car({ this.make, this.model, this.color, this.year });
 This is called a _parameterized constructor_ because it now has different _parameters_. We can use these parameters to assign values to the instance variables.
 
 {% hint style="info" %}
-The `this` keyword simply tells Dart to assign the instance variable to _this_ object. We will learn more about `this` later.
+The `this` keyword simply tells Dart to assign the instance variable to _this_ instance.
 {% endhint %}
 
 Now, we can update the `main()` method to create a `new Car`.

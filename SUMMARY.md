@@ -22,12 +22,15 @@
   * [Loops](basic-dart-programming/programming-concepts/loops.md)
   * [Recursion](basic-dart-programming/programming-concepts/recursion.md)
 * [Functions](basic-dart-programming/functions.md)
+* [Scope](basic-dart-programming/scope.md)
 * [Classes](basic-dart-programming/classes/README.md)
   * [Setting up DartPad](basic-dart-programming/classes/setting-up-dartpad.md)
   * [About classes](basic-dart-programming/classes/about-classes.md)
   * [Creating a class](basic-dart-programming/classes/creating-a-class.md)
   * [Access specification](basic-dart-programming/classes/access-specification.md)
-* [Scope](basic-dart-programming/scope.md)
+  * [Accessing object properties](basic-dart-programming/classes/accessing-object-properties.md)
+  * [Methods](basic-dart-programming/classes/methods.md)
+  * [Extending classes](basic-dart-programming/classes/extending-classes.md)
 
 ---
 
