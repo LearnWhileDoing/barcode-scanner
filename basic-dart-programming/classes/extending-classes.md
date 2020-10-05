@@ -39,3 +39,7 @@ When you inherit a class, you are _extending_ it. That's why we use the keyword 
 
 In this case, the `super` constructor is the constructor of the `Shape` class. It takes two named parameters, as shown in the example. The name of the shape will always be "rectangle", and the color of the shape comes from the `color` parameter from the `Rectangle` constructor.
 
+{% hint style="info" %}
+A `Rectangle` _**is-a**_ `Shape`. Therefore, we extended the `Shape` class and inherit its properties.
+{% endhint %}
+
