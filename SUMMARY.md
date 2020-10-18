@@ -31,6 +31,8 @@
   * [Accessing object properties](basic-dart-programming/classes/accessing-object-properties.md)
   * [Methods](basic-dart-programming/classes/methods.md)
   * [Extending classes](basic-dart-programming/classes/extending-classes.md)
+  * [Recap](basic-dart-programming/classes/recap.md)
+* [Certificate](https://uc3cb73640e31ed45000b3ef2118.dl.dropboxusercontent.com/cd/0/get/BBhKRTK5ko0LanGFZ5UYt-iLjwIprK1hI0ffp1L0ZFAJWUEHIT0T-RHjE-Qp6OYGPtX4en0BxbaJoNDPHZPWJ-u7yn7_gOqzwgyf-uDbZzfKZ96I171PRuMEbjCc-qpX3LI/file?dl=1#)
 
 ## Intro to Flutter
 
