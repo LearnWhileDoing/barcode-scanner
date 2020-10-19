@@ -12,22 +12,7 @@ Once we have covered the baseline of what you need to know about programming and
 
 This course will teach you how to make a mobile app that runs on iOS and Android phones from scratch!
 
-### Basic programming concepts
-
-* Arithmetic
-* Booleans
-* Control flow
-* Loops
-* Recursion \(advanced\)
-
-### Dart programming language
-
-* Variables
-* Primitive vs. non-primitive types
-* Methods
-* Classes
-* Code structure
-* `async` and `Futures` \(advanced\)
+### [Fundamentals of the Dart programming language](https://dart-programming.learnwhiledoing.org)
 
 ### App development
 
