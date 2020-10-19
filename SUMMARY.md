@@ -5,6 +5,9 @@
 * [Contributors](contributors.md)
 * [Get Help with the Course](get-help-with-the-course.md)
 
+## Basic modules
+
+* [Basic Modules](basic-modules/basic-modules.md)
 * [Programming in Dart](https://dart-programming.learnwhiledoing.org)
 
 ## Intro to Flutter
