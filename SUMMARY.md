@@ -4,9 +4,6 @@
 * [Course Materials](course-materials.md)
 * [Contributors](contributors.md)
 * [Get Help with the Course](get-help-with-the-course.md)
-
----
-
 * [Programming in Dart](https://dart-programming.learnwhiledoing.org)
 
 ## Intro to Flutter
