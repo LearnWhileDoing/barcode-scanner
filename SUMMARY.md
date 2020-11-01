@@ -12,6 +12,7 @@
 
 ## Intro to Flutter
 
+* [Hybrid apps](intro-to-flutter/hybrid-apps.md)
 * [What is Flutter?](intro-to-flutter/untitled.md)
 
 ---
