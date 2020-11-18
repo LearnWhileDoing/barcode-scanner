@@ -32,5 +32,3 @@ This course will teach you how to make a mobile app that runs on iOS and Android
 
 If you want to go above and beyond with your project, you can follow the "Advanced" section topics to learn how to upload the barcodes to a Google Spreadsheet, or you can add your own features.
 
-
-

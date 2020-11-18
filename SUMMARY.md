@@ -14,6 +14,8 @@
 
 * [Hybrid apps](intro-to-flutter/hybrid-apps.md)
 * [What is Flutter?](intro-to-flutter/untitled.md)
+* [Working with Flutter](intro-to-flutter/working-with-flutter/README.md)
+  * [Introductory video](https://www.youtube.com/watch?v=W1pNjxmNHNQ)
 
 ---
 
