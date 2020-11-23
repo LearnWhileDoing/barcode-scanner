@@ -2,9 +2,7 @@
 
 ## Author
 
-Main author:
-
-* Cole Gawin \([chroline](https://github.com/chroline)\) - Learn While Doing founder, main other
+* Cole Gawin \([chroline](https://github.com/chroline)\) - Learn While Doing founder, main author
 
 Many thanks to those who proof-read and tested this tutorial!
 
