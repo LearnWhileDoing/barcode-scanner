@@ -30,5 +30,18 @@ Flutter provides us with most of the styling already built-in, but it also allow
 
 > #### Flutter’s widgets incorporate all critical platform differences such as scrolling, navigation, icons and fonts to provide full native performance on both iOS and Android.
 
-As we previously discussed, native performance will make your app more pleasing to your end user as it looks much more polished. Flutter lets you acheive native performance on all platforms without coding in the native programming languages.
+As we previously discussed, native performance will make your app more pleasing to your end user as it looks much more polished. Flutter lets you achieve native performance on all platforms without coding in the native programming languages.
+
+## SDK & Framework
+
+Flutter is both an SDK and a development framework:
+
+* **SDK \(standard/software development kit\):** a set, or a kit, of tools and utilities to use in your code that will help you program for a specific use case.
+* **Framework:** a collection of _elements_ that you can use to build your project. A framework is like all of the parts you need to build something, but it's up to you as to how you put them together.
+
+How do these terms apply to Flutter?
+
+Flutter is an SDK that allows you to program for specific native platforms \(iOS, Android, etc.\) without using their native programming languages. Recall that Flutter uses Dart; iOS apps use Swift, and Android uses Java. In addition to allowing you to use Dart, Flutter also gives you ways to interact with the device you are programming your apps for. This includes access to the microphone, to speakers, to vibrations, to sensors, and to the camera \(as we will use in this project\).
+
+Flutter is also a framework for app development. That means that it gives you elements like buttons, inputs, texts, icons, etc. that you can use to create your app. Without this, you would have to style your entire app from scratch, which is quite a hassle. This allows you to quickly made apps that look really good on all devices. However, another great part of Flutter is that you can customize and style each element as much as you want!
 
