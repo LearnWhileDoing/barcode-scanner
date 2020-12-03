@@ -24,7 +24,11 @@ Flutter has a very useful feature called "hot reload." It lets you run your app 
 
 > #### Quickly ship features with a focus on native end-user experiences. Layered architecture allows for full customization, which results in incredibly fast rendering and expressive and flexible designs.
 
-Flutter provides us with most of the styling already built-in, but it also allows us to customize our app as much as we want. This helps to create apps that not only act very fast, but look really good too!
+Flutter is great for helping us to create beautiful UIs, which stands for user interface. The UI is what your user will see on their screen while using the app. Flutter provides us with most of the styling already built-in, but it also allows us to customize our app as much as we want. This helps to create apps that not only act very fast, but look really good too!
+
+{% hint style="info" %}
+You might come across, or maybe you have already heard of, a term similar to UI. That term would be UX, and it stands for user experience. While user interface is the actual design and look of your app, the user experience is how easy it is to use. For example, your app might look cool and have a great UI, but if it takes too many buttons to accomplish a simple task, that's bad UX design.
+{% endhint %}
 
 ### Native Performance
 

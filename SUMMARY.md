@@ -17,7 +17,8 @@
 * [Widgets](intro-to-flutter/widgets.md)
 * [Working with Flutter](intro-to-flutter/working-with-flutter/README.md)
   * [Introductory video](https://www.youtube.com/watch?v=W1pNjxmNHNQ)
-* [Thinking Flutter!](intro-to-flutter/thinking-flutter.md)
+* [Thinking Flutter!](intro-to-flutter/thinking-flutter/README.md)
+  * [Declarative Programming](intro-to-flutter/thinking-flutter/declarative-programming.md)
 
 ## Setting up Flutter
 
