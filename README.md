@@ -18,6 +18,7 @@ This course will teach you how to make a mobile app that runs on iOS and Android
 
 * What is app development?
 * Being an app developer
+* Declarative vs. imperative programming
 
 ### **Flutter Framework**
 

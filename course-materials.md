@@ -27,7 +27,9 @@ _If your organization controls your system and limits downloads and/or software 
 This course requires the installation of two main applications/software packages:
 
 * [Flutter SDK](https://flutter.dev/docs/get-started/install)
-* [Android Studio](https://developer.android.com/studio)
+* [Visual Studio Code](https://code.visualstudio.com)
 
 Please follow these links to install the softwares onto the system that will be used for this course.
+
+When installing the Flutter SDK, please permanently add `flutter` to your path. You can learn how to do so on the [Flutter docs page](https://flutter.dev/docs/get-started/install/macos#update-your-path). 
 

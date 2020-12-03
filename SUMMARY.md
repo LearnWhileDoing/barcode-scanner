@@ -17,6 +17,12 @@
 * [Widgets](intro-to-flutter/widgets.md)
 * [Working with Flutter](intro-to-flutter/working-with-flutter/README.md)
   * [Introductory video](https://www.youtube.com/watch?v=W1pNjxmNHNQ)
+* [Thinking Flutter!](intro-to-flutter/thinking-flutter.md)
+
+## Setting up Flutter
+
+* [Installing VS Code](setting-up-flutter/installing-vs-code.md)
+* [Installing Flutter](setting-up-flutter/installing-flutter.md)
 
 ---
 
