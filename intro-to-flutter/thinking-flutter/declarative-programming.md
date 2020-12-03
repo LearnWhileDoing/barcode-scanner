@@ -51,7 +51,5 @@ Example \#2 uses the declarative programming paradigm, and is very similar to wh
 
 For app developers \(or anyone designing UIs\), declarative programming is actually much more intuitive for creating UIs. Additionally, the more you use it, the more comfortable you will feel with it.
 
-
-
 Next, we'll learn about how declarative programming dictates how we program our apps.
 
