@@ -1,4 +1,4 @@
-# Building layouts
+# Composing layouts
 
 When you start to design your app, you will have to take _layouts_ into consideration. Each view, also known as a page, of your app will have multiple layouts within layouts. Your app will probably be layed out with many nested layouts, which will be composed into a _tree_ similar to something like this:
 
