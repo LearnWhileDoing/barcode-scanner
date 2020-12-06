@@ -43,3 +43,9 @@ The more complex your app layouts become, the bigger the widget composition tree
 
 ## Stateless vs Stateful
 
+Sometimes your widget will manage its own _state_. State is essentially any persistent data or information that is used by the widget itself. When a widget uses state, it is _stateful_, and you would use the `StatefulWidget` class. Otherwise, it is state_less_, and you would use the `StatelessWidget` class.
+
+Most widgets won't use any state. For example, if you have a widget that just displays text \(similar to the example above\), it doesn't have any state. In this scenario, you would use the `StatelessWidget` class.
+
+However, there are many cases where you do have state. Even the most basic data, like text input, is state in your app. If you are building a form widget, for example, you would most likely use a `StatefulWidget`.
+
