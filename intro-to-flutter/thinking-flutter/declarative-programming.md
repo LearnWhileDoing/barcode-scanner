@@ -51,5 +51,5 @@ Example \#2 uses the declarative programming paradigm, and is very similar to wh
 
 For app developers \(or anyone designing UIs\), declarative programming is actually much more intuitive for creating UIs. Additionally, the more you use it, the more comfortable you will feel with it.
 
-Next, we'll learn about how declarative programming dictates how we program our apps.
+You might notice that the coding example \#2 looks like different layers versus a long list, and that's what makes Flutter "declarativity" so useful.  Next, we'll learn about how declarative programming dictates how we program our apps.
 
