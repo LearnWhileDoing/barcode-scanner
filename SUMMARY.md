@@ -23,6 +23,7 @@
   * [Composing layouts](intro-to-flutter/thinking-flutter/building-layouts/README.md)
     * [Flutter Layout Widgets](https://www.notion.so/b54027f677014f3d994d0834327dc856?v=cad1e9cac1a4460cba3c2c2097412e9a)
   * [State management](intro-to-flutter/thinking-flutter/state-management.md)
+* [Conclusion](intro-to-flutter/conclusion.md)
 
 ## Setting up Flutter
 
