@@ -1,3 +1,7 @@
+---
+description: Using declarative programming with Flutter
+---
+
 # Flutter "declaritivity"
 
 ## State in Flutter
