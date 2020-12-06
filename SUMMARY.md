@@ -14,12 +14,12 @@
 
 * [Hybrid apps](intro-to-flutter/hybrid-apps.md)
 * [What is Flutter?](intro-to-flutter/untitled.md)
-* [Widgets](intro-to-flutter/widgets.md)
 * [Working with Flutter](intro-to-flutter/working-with-flutter/README.md)
   * [Introductory video](https://www.youtube.com/watch?v=W1pNjxmNHNQ)
 * [Thinking Flutter!](intro-to-flutter/thinking-flutter/README.md)
   * [Declarative Programming](intro-to-flutter/thinking-flutter/declarative-programming.md)
   * [Flutter "declaritivity"](intro-to-flutter/thinking-flutter/flutter-declaritivity.md)
+  * [Widgets](intro-to-flutter/thinking-flutter/widgets.md)
   * [Composing layouts](intro-to-flutter/thinking-flutter/building-layouts/README.md)
     * [Flutter Layout Widgets](https://www.notion.so/b54027f677014f3d994d0834327dc856?v=cad1e9cac1a4460cba3c2c2097412e9a)
   * [State management](intro-to-flutter/thinking-flutter/state-management.md)

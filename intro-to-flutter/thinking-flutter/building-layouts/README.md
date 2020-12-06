@@ -1,8 +1,6 @@
 # Composing layouts
 
-When you start to design your app, you will have to take _layouts_ into consideration. Each view, also known as a page, of your app will have multiple layouts within layouts. Your app will probably be layed out with many nested layouts, which will be composed into a _tree_ similar to something like this:
-
-![Flutter widget tree](../../../.gitbook/assets/image%20%281%29.png)
+When you start to design your app, you will have to take _layouts_ into consideration. Each view, also known as a page, of your app will have multiple layouts within layouts. Your app will probably make use of many nested layouts, which will be composed into a large widget composition tree.
 
 We will look at how once you have **visually** designed your app, you can **logically** design it using Flutter layout patterns.
 
